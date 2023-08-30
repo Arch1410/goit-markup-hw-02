@@ -1,0 +1,27 @@
+h3 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.hero {
+    background-color: rgb(16, 23, 44);
+    font-family: sans-serif ;
+    
+ }
+
+.main-heading {
+    color: white;
+    text-align: center;
+    font-weight: 800px;
+    font-family: roboto;
+  
+}
+
+.feature {
+    width: 200px;
+}
+
+.team-name {
+    text-align: center;
+}
