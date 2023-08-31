@@ -60,6 +60,20 @@ body {
 
 }
 
+.buttones {
+    color:#4D5AE5;
+    background-color:#dedff1;
+    padding: 5px;
+    border: 0px;
+    border-radius: 3px;
+}
+
+.buttones:hover {
+    cursor: pointer;
+    color: tomato;
+}
+
+
 .feature {
     width: 300px;
     
